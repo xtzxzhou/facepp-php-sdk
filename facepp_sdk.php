@@ -19,8 +19,8 @@ class Facepp{
     #############################################
     ### set your api key and api secret here. ###
     #############################################
-    var $api_key = '{your API KEY}';
-    var $api_secret = '{your API SECRET}';
+    var $api_key = '{6eb7d642d35291f22660f0e96871a7f7}';
+    var $api_secret = '{PiftQsYsA3FvXbqBd0WbAY7fKHVhaAx7}';
 
     public function __construct($api_key=NULL, $api_secret=NULL, $server=NULL){
         if($api_key){
